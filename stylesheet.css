@@ -35,8 +35,16 @@ body {
     border: 1px solid #ff0000!important;
 }
 
+.btn i{
+    color: #fff !important;
+}
+
 .btn:hover{
     background: #ff5555 !important;
+}
+
+.card-title{
+    color: #ff0000!important;
 }
 
 @media screen and (max-width: 767px){
