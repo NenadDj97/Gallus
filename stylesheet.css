@@ -113,3 +113,16 @@ footer a i{
 .card-body a i{
     color: #fff !important;
 }
+
+.productimg{
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.productimg img{
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
